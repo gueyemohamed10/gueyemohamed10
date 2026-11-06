@@ -55,4 +55,4 @@ Je mets la donnée géospatiale au service des filières agricoles et des organi
 
 ## Me contacter
 
-[gueye.mohamed@outlook.fr](mailto:gueyemohamed.pro@gmail.com)
+[gueyemohamed.pro@gmail.com](mailto:gueyemohamed.pro@gmail.com)
