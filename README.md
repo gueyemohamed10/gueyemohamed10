@@ -50,9 +50,9 @@ Je mets la donnée géospatiale au service des filières agricoles et des organi
 
 ## Formation
 
-- **Ingénieur agronome, foresterie et environnement** : École nationale supérieure d’agriculture (ENSA) de Thiès, 2017 – 2022
+- **Ingénieur agronome, foresterie et environnement** : École nationale supérieure d’agriculture (ENSA) de Thiès
 - Google Project Management et Google Data Analytics (Coursera, 2025) · ArcGIS Pro Advanced (2024) · Formation MEAL (2024)
 
 ## Me contacter
 
-[gueye.mohamed@outlook.fr](mailto:gueye.mohamed@outlook.fr)
+[gueye.mohamed@outlook.fr](mailto:gueyemohamed.pro@gmail.com)
